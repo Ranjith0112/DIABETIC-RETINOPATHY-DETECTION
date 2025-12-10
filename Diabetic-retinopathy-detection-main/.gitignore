@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Environment folders
+env/
+venv/
+
+# Model files
+*.pth
+*.pt
+
+# Data
+data/
+*.zip
